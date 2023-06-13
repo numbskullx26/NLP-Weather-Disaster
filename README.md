@@ -3,8 +3,12 @@
 
 
 <p align="center">The NLP-Weather-Disaster project utilized the MultinomialNB model to analyze weather-related text data and predict and classify disaster events. A diverse dataset comprising weather-related information from sources like social media, news articles, and weather reports was collected and preprocessed. This involved cleaning the text data, removing noise, stop words, and special characters, and performing tokenization. The text data was then transformed into numerical feature vectors using TF-IDF. The MultinomialNB model, a popular algorithm for text classification, was trained on this preprocessed data. Performance evaluation metrics such as accuracy, precision, recall, and F1-score were used to assess the model's effectiveness. The results were promising, demonstrating high accuracy and reliable predictions across various weather-related disaster categories. The trained model was deployed into a user-friendly interface or application, allowing real-time classification of weather-related texts. The practical applications of this project include early warning systems, aiding emergency response teams in resource allocation, and monitoring social media platforms for timely updates on weather-related disasters.</p>
+<br>
+<hr>
+<br>
 <ul>
 Project Name: NLP-Weather-Disaster
+<br>
 
 <li>Model Used: MultinomialNB (Multinomial Naive Bayes)</li>
 
