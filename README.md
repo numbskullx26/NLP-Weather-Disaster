@@ -19,3 +19,11 @@ Model Evaluation: Evaluated the model's performance using metrics such as accura
 Results: Obtained promising results with high accuracy and reliable predictions for different weather-related disaster categories
 
 Deployment: Integrated the trained model into a user-friendly interface or application to allow real-time classification of weather-related texts
+
+Practical Applications: This project has various practical applications, including:
+
+Early warning systems: By classifying weather-related texts, the model can aid in the early detection and prediction of disasters, enabling timely alerts and preparation.
+
+Emergency response: Providing insights into disaster events can help emergency response teams prioritize and allocate resources effectively.
+
+Social media monitoring: The model can be utilized to monitor social media platforms for real-time updates on weather-related disasters, enabling faster responses and assistance.
